@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently applying my data science skills towards nanomaterials.
+- 🔭 &nbsp; I’m currently applying my data science skills to nanomaterials.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Electrical Enigineering, at the University of Pittsburgh.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
