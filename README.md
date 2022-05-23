@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently applying my data science skills to nanomaterials.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electrical Enigineering, at the University of Pittsburgh.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; Begining my sophomore year in electrical engineering at Swanson School of engineering, University of Pittsburgh 
+- 🤔 &nbsp; Buliding Data science and articifical intelligence capabilities for techno-economic problems
+- 🎓 &nbsp; Developed neural network and transfer learning models for image data processing and classification.
+- 🌱 &nbsp; Developing machine learning and deep learning neural network models for material and nano-science.
+- ☕ &nbsp;  Enjoy socialization with free-lancing minds on learning new concepts and out of box ideas. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Matlab | R | C | C++  
-- 🌐 &nbsp; HTML 
-- 🛢 &nbsp; MySQL
+- 🌐 &nbsp; Keras, Tensorflow, Pytorch, Pymatgen, Matminer, and data science libraries 
+- 🛢 &nbsp; MySQL, HTML
 
 
 <br>
