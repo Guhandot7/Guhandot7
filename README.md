@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Begining my sophomore year in electrical engineering at Swanson School of engineering, University of Pittsburgh 
-- 🤔 &nbsp; Buliding Data science and articifical intelligence capabilities for techno-economic problems
-- 🎓 &nbsp; Developed neural network and transfer learning models for image data processing and classification.
-- 🌱 &nbsp; Developing machine learning and deep learning neural network models for material and nano-science.
-- ☕ &nbsp;  Enjoy socialization with free-lancing minds on learning new concepts and out of box ideas. 
+- 🔭 &nbsp; Currently, developing machine learning and deep learning neural network models for material and nano-science. 
+- 🤔 &nbsp; Buliding Data science and articifical intelligence capabilities for techno-economic problems.
+- 🎓 &nbsp; Sophomore Student studying electrical engineering at Swanson School of Engineering, University of Pittsburgh.
+- 🌱 &nbsp; Developed neural network and transfer learning models for image data processing and classification.
+- ☕ &nbsp; Enjoy socialization with free-lancing minds while learning new concepts and out of box ideas. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Matlab | R | C | C++  
-- 🌐 &nbsp; Keras, Tensorflow, Pytorch, Pymatgen, Matminer, and data science libraries 
-- 🛢 &nbsp; MySQL, HTML
+- 💻 &nbsp; Python | Matlab | R | C | C++ | Data Science Libraries
+- 🌐 &nbsp; HTML
+- 🛢 &nbsp; MySQL
 
 
 <br>
