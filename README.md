@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently, developing machine learning and deep learning neural network models for material and nano-science. 
+- 🔭 &nbsp; Developed machine learning and deep learning neural network models for material and nano-science. 
 - 🤔 &nbsp; Buliding Data science and articifical intelligence capabilities for techno-economic problems.
 - 🎓 &nbsp; Sophomore Student studying electrical engineering at Swanson School of Engineering, University of Pittsburgh.
 - 🌱 &nbsp; Developed neural network and transfer learning models for image data processing and classification.
