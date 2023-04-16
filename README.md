@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; Developed machine learning and deep learning neural network models for material and nano-science. 
 - 🤔 &nbsp; Buliding Data science and articifical intelligence capabilities for techno-economic problems.
-- 🎓 &nbsp; Sophomore Student studying electrical engineering at Swanson School of Engineering, University of Pittsburgh.
+- 🎓 &nbsp; Sophomore student studying Electrical Engineering at Swanson School of Engineering, University of Pittsburgh.
 - 🌱 &nbsp; Developed neural network and transfer learning models for image data processing and classification.
 - ☕ &nbsp; Enjoy socialization with free-lancing minds while learning new concepts and out of box ideas. 
 
